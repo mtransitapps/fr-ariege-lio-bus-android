@@ -8,6 +8,12 @@
             "regex": "(?U)^([^-\\s]+\\s*[-\\s+]\\s*)+([^-\\s]+)$",
             "replacement": "$2",
             "comment": "Keep only after last '-' or ' '"
+        },
+        {
+            "regex": "Tarascon",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "Tarascon-sur-Ariège"
         }
     ],
     "trip_headsign_remove_via": true,
