@@ -3,7 +3,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,TypographyDashes,Typos">
     <bool name="current_gtfs_rts_schedule_available">true</bool>
     <bool name="current_gtfs_rts_frequency_available">false</bool>
-    <string name="current_gtfs_rts_area_min_lat">42.79006789</string>
+    <string name="current_gtfs_rts_area_min_lat">42.780208</string>
     <string name="current_gtfs_rts_area_max_lat">43.612923</string>
     <string name="current_gtfs_rts_area_min_lng">0.895402</string>
     <string name="current_gtfs_rts_area_max_lng">2.35507535</string>
